@@ -8,7 +8,7 @@ function Error({ statusCode }: any) {
   return (
     <>
       <Head>
-        <title>Bruh!! What is this madness?? SMH...</title>
+        <title>Bruh...What is this madness</title>
       </Head>
       <Navbar withNav shrink />
       <MobileNav hideProfile />
