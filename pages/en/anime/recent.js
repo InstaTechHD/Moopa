@@ -75,7 +75,7 @@ export default function Recent({ sessions }) {
         <meta name="title" content="New Episodes" />
         <meta
           name="description"
-          content="Explore Beloved Classics and Favorites - Dive into a curated collection of timeless anime on Makima's New Episodes Page. From iconic classics to all-time favorites, experience the stories that have captured hearts worldwide. Start streaming now and relive the magic of anime!"
+          content="Explore Beloved Classics and Favorites - Dive into a curated collection of timeless anime on Makima's New Episodes Page. From iconic classics to all-time favorites, experience the stories that have captured hearts worldwide. Start streaming now and relive the magic of anime on makima!"
         />
       </Head>
       <MobileNav sessions={sessions} />
